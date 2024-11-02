@@ -15,7 +15,7 @@ body{
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 12000px;
     margin: 0 auto;
 }
 
@@ -164,7 +164,7 @@ body{
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(images/bg2.jpg);
+        url(images/bg3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
